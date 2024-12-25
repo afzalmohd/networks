@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/eth-sri/eran?tab=readme-ov-file
+HostUrl=https://files.sri.inf.ethz.ch/eran/nets/onnx/mnist/ffnnRELU__Point_6_500.onnx
